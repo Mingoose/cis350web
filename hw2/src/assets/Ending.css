@@ -1,0 +1,45 @@
+.wideBox1 {
+    background-color: #076AE0;
+    text-align: center;
+    color: white;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 2%;
+    margin-top: 25px;
+}
+
+.container1 {
+    margin-top: 60px;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 30%;
+}
+
+.smBox1 {
+    background-color: #076AE0;
+    text-align: center;
+    border: none;
+    color: white;
+    width: 45%;
+    padding: 10% 10% 10% 10%;
+    float: left;
+}
+
+.smBox2 {
+    background-color: #076AE0;
+    text-align: center;
+    border: none;
+    color: white;
+    width: 45%;
+    padding: 10% 10% 10% 10%;
+    float: right;
+}
+
+.divider {
+    background-color: #fff;
+    text-align: center;
+    color: white;
+    width: 5%;
+    height: auto;
+    float: left;
+}

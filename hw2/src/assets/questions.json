@@ -1,0 +1,81 @@
+[{
+		"img": "https://assets.vogue.com/photos/6206bc8d33bc379c2d2bc490/master/w_2560%2Cc_limit/1204763067",
+		"option1": "Margot Robbie",
+		"option2": "Kylie Jenner",
+		"option3": "Angelina Jolie",
+		"option4": "Kim Kardashian",
+		"correct": "option2"
+	},
+	{
+		"img": "https://static01.nyt.com/images/2021/05/12/business/12Degeneres-01/12Degeneres-01-mediumSquareAt3X.jpg",
+		"option1": "Barbara Corcoran",
+		"option2": "Joe Burrow",
+		"option3": "Ellen Degeneres",
+		"option4": "Macaulay Culkin",
+		"correct": "option3"
+	}, 
+    {
+		"img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTU0OTkwNDUxOTQ5MDUzNDQ3/kanye-west-attends-the-christian-dior-show-as-part-of-the-paris-fashion-week-womenswear-fall-winter-2015-2016-on-march-6-2015-in-paris-france-photo-by-dominique-charriau-wireimage-square.jpg",
+		"option1": "Jamie Foxx",
+		"option2": "Kanye West",
+		"option3": "Samuel L. Jackson",
+		"option4": "Hannah Montana",
+		"correct": "option2"
+	},
+    {
+		"img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTY3MDUxMjkzMjI1OTIwMTcz/brad-pitt-attends-the-premiere-of-20th-century-foxs--square.jpg",
+		"option1": "Zendaya",
+		"option2": "Tom Holland",
+		"option3": "Brad Pitt",
+		"option4": "Angelina Jolie",
+		"correct": "option3"
+	},
+    {
+		"img": "https://hips.hearstapps.com/hmg-prod/images/screen-shot-2020-03-20-at-4-59-23-pm-1584737992.png",
+		"option1": "Addison Rae",
+		"option2": "Charli D'Amelio",
+		"option3": "Dixie D'Amelio",
+		"option4": "Anna Shumate",
+		"correct": "option1"
+	},
+    {
+		"img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/John_Cena_July_2018.jpg/640px-John_Cena_July_2018.jpg",
+		"option1": "John Cena",
+		"option2": "Skai Jackson",
+		"option3": "Martin Luther King Jr.",
+		"option4": "Donald Trump",
+		"correct": "option1"
+	},
+    {
+		"img": "https://m.media-amazon.com/images/M/MV5BYTU5ZWJhZDctNGZlOS00NjRjLWFiNGMtNDU0NmIwNTM1Y2ViXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY1200_CR85,0,630,1200_AL_.jpg",
+		"option1": "Johnny Sins",
+		"option2": "Riley Reid",
+		"option3": "Mia Khalifa",
+		"option4": "Jordi El Nino Polla",
+		"correct": "option4"
+	},
+    {
+		"img": "https://media.glamour.com/photos/595e9e2b07290f1509fa1a8a/master/w_2560%2Cc_limit/EMMA%2520STONE.jpg",
+		"option1": "Debby Ryan",
+		"option2": "Bella Thorne",
+		"option3": "Emma Stone",
+		"option4": "Sofia Vergara",
+		"correct": "option3"
+	},
+    {
+		"img": "https://www.indiewire.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-07-at-8.35.53-AM.png",
+		"option1": "Pete Davidson",
+		"option2": "Kim Kardashian",
+		"option3": "Kendall Jenner",
+		"option4": "Rob Kardashian",
+		"correct": "option1"
+	}, 
+    {
+		"img": "https://m.media-amazon.com/images/M/MV5BYTNlOGZhYzgtMmE3OC00Y2NiLWFhNWQtNzg5MjRhNTJhZGVmXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_.jpg",
+		"option1": "Bill Gates",
+		"option2": "Elon Musk",
+		"option3": "Jeff Bezos",
+		"option4": "Warren Buffett",
+		"correct": "option3"
+	}
+]
